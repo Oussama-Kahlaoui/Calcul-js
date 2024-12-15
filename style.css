@@ -1,0 +1,14 @@
+.numbers {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    max-width: 200px;
+    margin: 0 auto;
+}
+button {
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.Numbers{
+}
